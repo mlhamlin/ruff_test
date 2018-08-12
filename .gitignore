@@ -1,0 +1,4 @@
+#git ignore
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/task.xml

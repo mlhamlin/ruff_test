@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: #f0e8c5;
+}
+
+.hidden {
+    display: none;
+}
+
+
+#active-area {
+    width: 1024px;
+    height: 576px;
+}
+
+#canvas {
+    height: 100%;
+    width: 100%;
+    background: #5abfc8;
+}
+
+#button-wrapper {
+    margin-top: -576px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+#play-button {
+    height: 108px;
+    width: 118px;
+}
